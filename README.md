@@ -12,3 +12,5 @@ This is the sample website showing the usage of GIT and GitHub
 Sample website with plenty of files for demos
 
 ##how to contribute
+
+##description
