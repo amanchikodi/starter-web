@@ -7,6 +7,7 @@ Adding line for rebase example, one more chnage ofr future brnahc
 This is the sample website showing the usage of GIT and GitHub
 
 ## Purpose
+chcking for staching
 
 ##Deployement setion
 
